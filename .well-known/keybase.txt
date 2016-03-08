@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/kolo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mewhub.com
+  * I am kolo (https://keybase.io/kolo) on keybase.
+  * I have a public key with fingerprint 5B1F 75B3 2329 7B83 0E9F  5B90 3C0F 560E 3692 84F7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101caab61b7c1cc3c7ce36eb384b551d79adbd71b9ce53eca4f9bd940503fff0ba30a",
+            "fingerprint": "5b1f75b323297b830e9f5b903c0f560e369284f7",
+            "host": "keybase.io",
+            "key_id": "3c0f560e369284f7",
+            "kid": "0101caab61b7c1cc3c7ce36eb384b551d79adbd71b9ce53eca4f9bd940503fff0ba30a",
+            "uid": "6220fbf36844f8baf2732b57bcfcaf19",
+            "username": "kolo"
+        },
+        "service": {
+            "hostname": "mewhub.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1457469258,
+    "expire_in": 157680000,
+    "prev": "34ee61fe9b79d9b730236d4915138b4452ea48bf0d5af20406113137066d447f",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSFRBGF4rF1uoFEyIguqUFbXYzJlz3SgiMM1sqYcsNms7M2fGPenu
+2XaPtyy6GHZDhBCiiw+GJUgQRkaFhYlFUFQS3Yja0CCiKKOMsgvNEXvrsXmYYf75
+vu///o/pmzTe40ub+LZj6kDfzt60OzeOVnpKUmpRnYBts1YI1AnldPSgFSZNOuFy
+yxQCAoAAEsPACsQqgYQgohKKFIqRJmFZhqaqGyY2VYh1QmVEiSExHZu6BGSAGGMA
+GwgYgl9gVqyMJuIJK+ZwWRlDpsoYiUjUVawhQHUmYx0gApisAN5BFzWJqZwYsZMu
+g5vDRpLmWTav8Ut41N4/8P/Zd+WonCKKgGGGFE2SmIYNJqpIxLKKCSMGg7oLTNJE
+zIhS16tdYQu7/AKvVFmEuqG6U4y9Rml1pBLnETvKWfGE7djEruD1iOPEkwGX59TG
+XWA1xeExiTC2YiZPkDOqaCJp2TEhADmSOJarCSVZlXgEsuYXaE3cStCw5SJkVdEA
+X24fWuXmJVGqQEZ1rOom3xAQkWJKOpQh0rAkySI1JA0zYMp8RiABBUIEkQoUjpJU
+JrhDbY/ZQkDkrRyjjGsmrbKY4VQmqLCrt6d0gifN5/Gmj3O/lsc3MfPvh2vozPC0
+dflWFw6+be3c6kkVZc6bUz/jtL97efBNy55Ue83lpoLi4+szMpY98Fo7u5r3okho
+fv3ViyOhN9+Dc182q+n5fWcCRxJm9hFvU/fmc7Pbs5a+7vxAvkkF4c9C68HXyu/8
+FQsGfC/Kn9S0tDkQXv/aFTQ8v/rE2alU40NyeHLOjlfFV1YtmrTp6bTcj0ZV/uNZ
+tcMblu+bErq7pHHNzPe3v5XOaXhyrB3+HM69CW/t7z/7+d2BYKS/OfR82/0tKwdP
+Lc5e9Wzj091Dg7TgRKgwdSn7pB705nTc+7SuZPha1u7anoHA2n0jh7L8Cy9MH1pW
+cPzHnh/nZ0W/iN5H3iFS+KnfqvsDJLFBPA==
+=s6Tx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kolo
+
+==================================================================
+
